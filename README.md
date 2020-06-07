@@ -39,9 +39,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 # Clone this repository
 $ git clone https://github.com/DicoMonteiro/NLW_Starter
 
-# Go into the repository
-$ cd next-level-week
-
 # Install front-end dependencies
 $ npm install
 
