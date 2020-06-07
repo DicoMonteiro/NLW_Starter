@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" src="./web/src/assets/logo.svg" />
+    <img alt="Ecoleta" src="./public/extras-aula-1/icones/logo.svg" />
     <br>
     <br>
     <a href="https://github.com/DicoMonteiro/NLW_Starter/src/server">NodeJS</a>
