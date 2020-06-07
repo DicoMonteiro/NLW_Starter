@@ -55,10 +55,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Dico
 
 ---
 
-Made with :purple_heart: by Fabiano Almeida :wave: [Get in touch!](https://www.linkedin.com/in/fabianobmalmeida/)
+Made with :purple_heart: by Adriano Almeida :wave: [Get in touch!](https://www.linkedin.com/in/adriano-barreto-monteiro-almeida/)
 
 [nodejs]: https://nodejs.org/
-[axios]: https://github.com/axios/axios
-[expo]: https://expo.io/
 [vc]: https://code.visualstudio.com/
-[typescript]: https://www.typescriptlang.org/
